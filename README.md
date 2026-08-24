@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jonathan
+# Jonathan Díaz
 
 **Estudiante de Ingeniería en Software · Zacatecas, México**
 
