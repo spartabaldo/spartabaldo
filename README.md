@@ -101,7 +101,7 @@ Soluciones a problemas de algoritmos y estructuras de datos. Materia adelantada 
 | **Redes de computadoras** | No viene en mi plan de estudios y es base para ciberseguridad |
 | **Criptografía** | Hashing, firmas digitales, curvas elípticas |
 | **Linux / terminal** | Mi entorno de trabajo diario |
-| **Ciencia de datos** | Roadmap propio a 24 meses junto con ciberseguridad |
+| **Ciencia de datos** | Me atrae demasiado las ciencias de datos |
 | **Alemán (A1–A2)** | Porque sí |
 
 ---
