@@ -75,13 +75,6 @@ Proyecto personal para entender Bitcoin a nivel de código. Voy por fases: funda
 
 ---
 
-### 📚 Sistema de registro de estudiantes
-Aplicación full-stack con Node.js, Express y MongoDB. Proyecto final de Desarrollo Web: CRUD completo, manejo de rutas, persistencia y vistas.
-
-`Node.js` `Express` `MongoDB`
-
----
-
 ### ⚡ Programación competitiva
 Soluciones a problemas de algoritmos y estructuras de datos. Materia adelantada de quinto semestre.
 
