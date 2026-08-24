@@ -84,20 +84,6 @@ Aplicación full-stack con Node.js, Express y MongoDB. Proyecto final de Desarro
 
 ---
 
-### 🖼️ Comparación de imágenes por similitud coseno
-Implementación en Python que representa imágenes como vectores y mide qué tan parecidas son usando similitud coseno. Salió de un proyecto de Álgebra Lineal, con documentación formal incluida.
-
-`Python` `Álgebra lineal` `Procesamiento de imágenes`
-
----
-
-### 💅 Pretty Nails, Lu — Ingeniería de Requerimientos
-Levantamiento completo de requerimientos para un sistema de gestión de salón, con cliente real. Documento de Visión y Alcance, diagramas UML de casos de uso, SRS bajo el estándar **IEEE 830**, catálogo de reglas de negocio y mockups de interfaz.
-
-`Análisis de requerimientos` `UML` `IEEE 830`
-
----
-
 ### ⚡ Programación competitiva
 Soluciones a problemas de algoritmos y estructuras de datos. Materia adelantada de quinto semestre.
 
