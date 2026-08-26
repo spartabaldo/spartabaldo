@@ -107,9 +107,6 @@ Produzco música en un espacio entre **dark pop, indie melancólico y urbano lat
 <div align="center">
 
 
-
-![Racha](https://streak-stats.demolab.com/?user=[usuario]&theme=tokyonight&hide_border=true&background=0c0e13&ring=8b7cf6&fire=8b7cf6)
-
 </div>
 
 ---
