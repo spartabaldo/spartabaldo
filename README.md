@@ -100,7 +100,7 @@ Produzco música en un espacio entre **dark pop, indie melancólico y urbano lat
 
 ## Idiomas
 
-🇲🇽 Español — nativo · 🇺🇸 Inglés — avanzado (coordino un club de conversación) · 🇩🇪 Alemán — básico (A1–A2)
+🇲🇽 Español — nativo · 🇺🇸 Inglés — avanzado · 🇩🇪 Alemán — básico (A1–A2)
 
 ---
 
