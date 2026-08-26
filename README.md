@@ -106,9 +106,6 @@ Produzco música en un espacio entre **dark pop, indie melancólico y urbano lat
 
 <div align="center">
 
-
-</div>
-
 ---
 
 <div align="center">
