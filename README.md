@@ -101,10 +101,6 @@ Soluciones a problemas de algoritmos y estructuras de datos. Materia adelantada 
 
 Produzco música en un espacio entre **dark pop, indie melancólico y urbano latino experimental**. Ableton Live, un MPC Sample y sintes como Vital. Influencias: Álvaro Díaz, NSQK, Latin Mafia, The Neighbourhood, Radiohead.
 
-También toco piano y coordino un club de conversación en inglés, donde diseño las actividades y dinámicas.
-
-<!-- TODO: si tienes SoundCloud / Spotify y quieres enlazarlo, va aquí -->
-
 ---
 
 ## Idiomas
@@ -115,11 +111,7 @@ También toco piano y coordino un club de conversación en inglés, donde diseñ
 
 <div align="center">
 
-<!-- TODO: reemplaza [usuario] por tu nombre de usuario de GitHub en las 3 URLs -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=[usuario]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c0e13&title_color=8b7cf6&icon_color=8b7cf6)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=[usuario]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c0e13&title_color=8b7cf6)
 
 ![Racha](https://streak-stats.demolab.com/?user=[usuario]&theme=tokyonight&hide_border=true&background=0c0e13&ring=8b7cf6&fire=8b7cf6)
 
