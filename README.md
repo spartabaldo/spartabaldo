@@ -9,7 +9,7 @@ Backend, criptografía y sistemas — con una playlist propia de fondo.
 
 <!-- TODO: reemplaza [usuario] por tus usuarios reales, o borra el badge que no uses -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[www.linkedin.com/in/jonathan-osvaldo-diaz-escobedo-a7a85b275])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathan-osvaldo-diaz-escobedo-a7a85b275)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tu@correo.com])
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://[tu-sitio.com])
 
