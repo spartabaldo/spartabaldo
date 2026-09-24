@@ -18,7 +18,7 @@ Estudio Ingeniería de Software en la **Universidad Autónoma de Zacatecas**. Vo
 
 Lo que más me mueve es entender las cosas hasta el fondo, no solo hacerlas funcionar. Por eso ando leyendo cómo está construido Bitcoin en C++, estudiando redes por mi cuenta (aunque no venga en mi plan de estudios) y armando mi propia criptomoneda desde cero como proyecto de aprendizaje.
 
-Fuera de la compu, produzco música y coordino un club de conversación en inglés.
+Fuera de la compu, produzco música.
 
 ```text
 📍  Zacatecas, México
